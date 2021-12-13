@@ -29,5 +29,5 @@ html {
 }
 
 .frost {
-  @include frost;
+  @include frost(15);
 }
